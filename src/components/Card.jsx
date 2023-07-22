@@ -1,5 +1,4 @@
 /* archivo Card.jsx en carpeta components */
-import React from "react";
 import { BsStarFill } from "react-icons/bs";
 
 function Card({ title, photo, rating, type, beds }) {
